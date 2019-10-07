@@ -1,3 +1,8 @@
+---
+title: "Free Coding Resources"
+date: 2019-10-07
+---
+
 ## Resources
 1. [Github Guides](https://guides.github.com)
 2. [Github Learning Lab](https://lab.github.com/)
